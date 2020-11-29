@@ -3,8 +3,8 @@
 $alert_level = 0; // 0 = None, 1 = @here, 2 = @everyone
 $embed_title = 'New Form Submission'; // Title in discord message embed.
 $embed_color = 0xFFD01A; // Hex Code, no #. Leave 0x in front of hex code.
-$username = 'Discord Form'; // Name to call webhook.
-$webhook_url = ''; // Webhook url, guide https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+$username = 'Community Updates'; // Name to call webhook.
+$webhook_url = 'https://discord.com/api/webhooks/782551743149375528/JDccvQJwPltriSD44ef03quLJ8K6YyKx-EU4L-c-yH_qHkjHJ2x20nH9i_c_JjrRQchP'; // Webhook url, guide https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 
 // I'd delete everything below if your using a custom form.
